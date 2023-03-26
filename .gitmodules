@@ -1,0 +1,3 @@
+[submodule "AFE/AFE"]
+	path = AFE/AFE
+	url = https://github.com/zia-javanbakht/AFE
