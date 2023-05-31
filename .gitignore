@@ -1,5 +1,5 @@
 
-MARC_SUBROUTINE_TRAINING/MOVING_pressure/mentat.1.proc
+*.proc
 *.log
 *.out
 *.sts
